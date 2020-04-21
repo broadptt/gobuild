@@ -1,4 +1,4 @@
-package buildversion
+package gobuild
 
 import (
 	"fmt"
