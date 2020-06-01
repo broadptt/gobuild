@@ -32,6 +32,3 @@ func PrintBuildingVerionInfo() {
 	fmt.Println("|--------------------------------------------------|")
 }
 
-func createVersion() {
-
-}
